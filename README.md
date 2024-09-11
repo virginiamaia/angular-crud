@@ -61,7 +61,4 @@ Para acompanhar este curso, você precisará de:
 
 - [Documentação Oficial do Angular](https://angular.io/docs)
 - [Angular CLI](https://angular.io/cli)
-
-
-
-
+- [Curso Angular 9 Essencial - Cod3r](https://www.cod3r.com.br/courses/angular-9-essencial)
